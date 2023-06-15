@@ -1,0 +1,44 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+section {
+    display: flex;
+}
+
+
+
+.fitness_freek {
+    color: orange;
+}
+
+
+
+
+.half {
+    width: 50%;
+    padding: 5%;
+
+}
+
+.half image {
+    width: 80%;
+}
+
+.enroll_button {
+    text-decoration: nonne;
+    background-color: white;
+    padding: 10px 40px;
+    border-radius: 5px;
+    background-image: linear-gradient(red orange);
+    font-weight: 700;
+}
+
+.top-banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
