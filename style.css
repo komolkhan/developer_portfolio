@@ -20,14 +20,12 @@ section {
 
 
 .half {
-    width: 50%;
-    padding: 5%;
-
-}
-
-.half image {
     width: 80%;
+    padding: 40px;
+
 }
+
+
 
 .enroll_button {
     text-decoration: nonne;
@@ -41,4 +39,22 @@ section {
 .top-banner {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+
+.box-shadow {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 30px gray;
+    border-left: 10px solid;
+}
+
+.exercise-list {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    border: 10px solid;
+
 }
